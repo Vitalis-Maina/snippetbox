@@ -32,7 +32,7 @@ Software requirements:
 To start the local web server with HTTPS on port 4000:
 
 ```sh
-$ git clone https://github.com/cedrickchee/snippetbox
+$ git clone https://github.com/Vitalis-Maina/snippetbox.git
 $ cd snippetbox
 
 # Generate TLS key and cert
